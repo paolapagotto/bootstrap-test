@@ -1,7 +1,44 @@
-.section{
+.section-one{
     text-align: center;
     background-color: aliceblue;
     color: #1d2564;
     border-radius: 5px;
+    height: 100px;
     margin: 15px 0;
+}
+
+.section-two{
+    text-align: center;
+    background-color: aliceblue;
+    color: #1d2564;
+    border-radius: 5px;
+    height: 100px;
+    margin: 15px 0;
+}
+
+.section-three{
+    text-align: center;
+    background-color: aliceblue;
+    color: #1d2564;
+    border-radius: 5px;
+    height: 100px;
+    margin: 15px 0;
+}
+
+.footer{
+    height: 150px;
+    background-color: #2872bc;
+    text-align: center;
+}
+
+@media (max-width: 540px){
+    .section-one, .section-two, .section-three{
+        background-color: #6b4ca5;
+        
+    }
+    
+}
+
+@media (min-width:){
+        
 }
