@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
 .nav-breadcrumb{
     
 }
@@ -34,6 +40,7 @@
     background-color: #1a133c;
     text-align: center;
     color: aliceblue;
+    margin: 10px 0;
 }
 
 @media (max-width: 540px){
