@@ -1,3 +1,7 @@
+.nav-breadcrumb{
+    
+}
+
 .section-one{
     text-align: center;
     background-color: aliceblue;
@@ -27,18 +31,19 @@
 
 .footer{
     height: 150px;
-    background-color: #2872bc;
+    background-color: #1a133c;
     text-align: center;
+    color: aliceblue;
 }
 
 @media (max-width: 540px){
     .section-one, .section-two, .section-three{
         background-color: #6b4ca5;
-        
+        color: aliceblue;
     }
     
 }
 
-@media (min-width:){
+@media (min-width: 0){
         
 }
